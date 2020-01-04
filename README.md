@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f2aadd8-ded6-42c1-af67-d325aa60c0fc/deploy-status)](https://app.netlify.com/sites/gatsby-firstapp/deploys)
+
 # Gatsby-FirstApp
 
 This is a sample Gatsby website with a Markdown blog. It is the project from the Gatsby JS Crash Course on YouTube by Traversy Media
