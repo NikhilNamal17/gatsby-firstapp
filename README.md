@@ -1,3 +1,8 @@
+# Gatsby-FirstApp
+
+This is a sample Gatsby website with a Markdown blog. It is the project from the Gatsby JS Crash Course on YouTube by Traversy Media
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
